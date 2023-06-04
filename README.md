@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abu Talha</h1>
-<h3 align="center">A passionate programmer and developer who just stared coding for fun but now a carrer.Started with PYTHON but now any languages.Interested in AI and Pursuing it.</h3>
+<h3 align="center">A passionate programmer and developer who just stared coding for fun but now a carrer.Started with PYTHON but now many languages.Interested in AI and Pursuing it.</h3>
 
 - 🌱 I’m currently learning **Ai , Data Engineering and IOT**
 
