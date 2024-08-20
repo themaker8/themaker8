@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abu Talha</h1>
-<h3 align="center">A passionate programmer and developer who just stared coding for fun but now a carrer.Started with PYTHON but now many languages.Interested in AI and Pursuing it.</h3>
+<h3 align="center">A passionate programmer and developer who started coding for fun, now pursuing it as a career. Initially began with Python, but has since expanded to multiple languages. Deeply interested in AI and actively pursuing it as a focus area..</h3>
 
-- 🌱 I’m currently learning **Ai , Data Engineering and IOT**
+- 🌱 I’m currently learning **AI , Web Dev and Building my own ideas**
 
-- 💬 Ask me about **Python, HTML, Problems**
+- 💬 Ask me about **Python,Web dev Problems**
 
 - 📫 How to reach me **talhamlops@gmail.com**
 
