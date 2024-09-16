@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abu Talha</h1>
 <h3 align="center">A passionate programmer who started coding for fun, now pursuing it as a career. Initially began with Python, but has since expanded to multiple languages. Deeply interested in AI and actively pursuing it as a focus area.</h3>
 
-- 👨‍💻 All of my projects are available at [abutalhapy.netlify.app](abutalhapy.netlify.app)
+- 👨‍💻 All of my projects are available at [github]
 
 - 💬 Ask me about **Python, C**
 
